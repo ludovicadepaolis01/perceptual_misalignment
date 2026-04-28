@@ -42,4 +42,4 @@ This is the code for "Perceptual misalignment of texture representations in conv
   `/src/rsa_gram.py` performs Representational Similarity Analysis.  
   `/src/mutual_info_estimate.py` computes Mutual Information.  
   `/src/brainscore_correlations.py` performs correlation against **[BrainScore (Schrimpf et al., 2019)](https://arxiv.org/abs/1909.06161)**.  
-  Notes: `/analyses/dataloader_dtd.py` and `/analyses/dataloader_gaussian.py` contain two dataloaders as a standard pipeline to deal with data in PyTorch and Torchvision.  
+  Notes: `/src/dataloader_dtd.py` and `/src/dataloader_gaussian.py` contain two dataloaders as a standard pipeline to deal with data in PyTorch and Torchvision.  
